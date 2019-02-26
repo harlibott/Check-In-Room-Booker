@@ -1,6 +1,6 @@
 # Check In Room Booker
 
-![Check in Logo](https://img.rwgenting.com/rwgenting/uploadedImages/Images/Accommodations/Self_Check_In/self-check-in-step2.png)
+![Logo](https://churchleaders-eszuskq0bptlfh8awbb.stackpathdns.com/wp-content/uploads/2018/04/4.17.CC.CHILDREN.VBSCheckin.jpg)
 ## Introduction
 Over my web programming course at UGA, me and my team's final project was to create a full stack web application of our choosing. We decided to create a study room booker. 
 
